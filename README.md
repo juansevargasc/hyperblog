@@ -6,5 +6,6 @@
 ## Este es un blog ejemplo!
 * Escrito en HTML y CSS
 * Para sacarle el jugo a Git y GitHub
+* Creado por el increíble PlatziTeam
 
 **Este readme.md es un chiste**.  Diseñado para el ejemplo del blog.  [**ve a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
